@@ -46,3 +46,11 @@ Apart from the generic goals related to quality assurance outlined above, there 
 
 
 **Timing** : Timing of compliance activities should be considered with regard to the development of the architectures themselves.
+
+**Governance and Personnel Scenarios**
+
+
+**Architecture compliance review Process**
+<a href="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/48_review.png"> 
+
+<img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/">Architecture Compliance</img>

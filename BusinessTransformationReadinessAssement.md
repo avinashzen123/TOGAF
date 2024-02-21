@@ -8,7 +8,7 @@ Understanding the readiness of the organization to accept change, identifying th
 The recommended activities in an assessment of an organization's readiness to address business transformation are:
 
 - Determine the readiness factors that will impact the organization
-- ***Present the readiness factors using maturity models**
+- **Present the readiness factors using maturity models**
 - Assess the readiness factors, including determination of readiness factor ratings
 - Assess the risks for each readiness factor and identify improvement actions to mitigate the risk
 - Work these actions into Phase E and F Implementation and Migration Plan

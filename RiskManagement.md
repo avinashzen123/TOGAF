@@ -13,7 +13,8 @@ Risks are normally classified as **time (schedule), cost (budget), and scope** b
 * Risk identification : The use of Capability Maturity Models (CMMs) is suitable for specific factors associated with architecture delivery to first identify baseline and target states and then identify the actions required to move to the target state. The implications of not achieving the target state can result in the discovery of risks.
 
 * Initial risk assessment : The next step is to classify risks with respect to effect and frequency in accordance with scales used within the organization. Combine effect and frequency to come up with a preliminary risk assessment.
-Effet would be accessed using the following example criteria:
+
+Effect would be accessed using the following example criteria:
 - Catastrophic
 - Critical
 - Marginal

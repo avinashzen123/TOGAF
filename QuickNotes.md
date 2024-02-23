@@ -240,3 +240,103 @@ Pressure to Develop Enterprise Architecture
 - Increase in litigation 
 - Audit requirements 
 
+
+Steps performed in phase A
+1. Establish the architecture project
+2. Identify Stakeholder, concerns and business requirements
+3. Confirm and elaborate business goals, business drivers and constraints
+4. Evaluate capabilities
+5. Assess Readiness for Business transformation
+6. Define scope
+7. Confirm and Elaborate architecutre principle including business principles
+8. Develop architecture vision
+9. Define target architecture value proposition and KPIs
+10. Define the business transformation risks and mitigation activities
+11. Develop statement of architecture work, secure approval.
+
+
+Steps performed in Phase B:
+1. Select reference models, viewpoints and tools
+2. Develop baseline business architecture description
+3. Develop target business architecture description
+4. Perform gap analysis
+5. Define candidate roadmap components
+6. Resolve impact across architecture landscape
+7. Conduct formal stakeholder review
+8. Finalize the Business architecture
+9. Create the architecture definition document.
+
+
+Steps performed in Phase C Data architecture:
+1. Select reference models, view points and tools
+2. Develop baseline data architecture description
+3. Develop target data archtiecture description
+4. Perform gap analysis
+5. Define Candidate roadmap components
+6. Resolve impact across the architecture landscape
+7. Conduct formal stakeholder review.
+8. Finalize the data architecture
+9. Create the architecture definition document
+
+Steps performed in Phase C Application architecture :
+1. Select reference models, viewpoints and tools
+2. Develop baseline application architecture description
+3. Develop target application architecture description
+4. Perform gap analysis
+5. Define candidate roadmap components
+6. Resolve impact across the architecture landscape
+7. Conduct formal stakeholder review
+8. Finalize the application architectecture
+9. Create the architecture definitin document.
+
+Steps performed in Phase D:
+1. Select reference models, viewpoints and tools
+2. Develop baseline technology architecture description
+3. Develop target technology architecture description
+4. Peform gap analysis
+5. Define candidate roadmap component
+6. Resolve impact across the architectre landscape
+7. Conduct formal stakeholder review
+8. Finalilze the technology architecture
+9. Create the architecture definition document
+
+Steps performed in Phase E:
+1. Determine/confirm key corporate change attribute
+2. Determine business constraint for implementation
+3. Review and consolidate gap analysis result from Phase B to D
+4. Review consolidated requirements across related business functions
+5. Consolidate and reconcile interoperabiilty requirements
+6. Refine and vaidate dependencies.
+7. Confirm readiness and risk for Business transformation
+8. Formulate implementation and migration strategy
+9. Identify and group major work packages
+10. Identify transition architecture
+11. Create the architecture roadmap & implementation and migration plan.
+
+Steps performed in Phase F: Migration Planning:
+1. Confirm management interaction for the implementation and migration plan
+2. Assign a Business value to each work package
+3. Estimate resource requirenets, project timing and availability/ delivery vehicle.
+4. Prioritize the migration project through conduct of a cost/benefit assessment and risk validation
+5. Confirm architecture roadmap and update architecture definition document
+6. Complete the implementation and migration plan
+7. Complete the architecture development cycle and document lesson learned.
+
+Steps performed in Phase G: Implementation Governance:
+1. Confirm scope and priorities for development with management
+2. Identify deployment resource and skills
+3. Guide Development of solutions deployments
+4. Perform EA Compliance review
+5. Implement business and IT operations
+6. Perform Post implementation review and close the implementation
+
+Steps performed in Phase H: Architecture Change Management:
+1. Establish value realization process
+2. Deploy monitoring tools
+3. Manage risks
+4. Provide analysis for architecture change management
+5. Develop change requirements to meet performance targets
+6. Manage Governance process
+7. Activate the process to implementation change.
+
+ 

@@ -1,6 +1,6 @@
 # 43. Architecture Contracts
 
-Architecture Contracts are the joint agreements between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture. ccessful implementation of these agreements will be delivered through effective Architecture Governance
+Architecture Contracts are the joint agreements between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture. Sccessful implementation of these agreements will be delivered through effective Architecture Governance
 
 **By implementing a governed approach to the management of contracts, the following will be ensured:**
 

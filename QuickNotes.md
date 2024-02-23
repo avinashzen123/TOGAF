@@ -48,6 +48,8 @@ The Reference Library should contain:
     Templates
 ```
 
+> TRM is used for Foundation architecture.
+
 Benefits of Architecture Governance
 ```
 Increased transparency of accountability, and informed delegation of authority
@@ -143,10 +145,13 @@ In which phase is Capability Assessment carried out
 ```
 It is first carried out in Phase A and updated in Phase E
 ```
+Which of the following describes the Phase H classification for an Incremental change?
 
 What is the TOGAF Technical Reference Model?
 ```
 It describes a fundamental architecture upon which other, more specific, architectures can be based
+
+The objective of the TGF TRM is to provide a widely accepted core taxonomy, and an appropriate visual representation of that taxonomy.
 ```
 
 Part of the Integrated Information Infrastructure Reference Model taxonomy
@@ -157,6 +162,10 @@ Part of the Integrated Information Infrastructure Reference Model taxonomy
     Information provider application 
 ```
 
+> III-RM is example of application architecture,It is fundamentally an Applications Architecture reference model - a model of the application components and application services software essential for an integrated information infrastructure.
+
+> The TGF Integrated Information Infrastructure Reference Model (III-RM) is a reference model that supports describing Common Systems Architecture in the Application Domain that focuses on the requirements, building blocks, and standards relating to the vision of Boundaryless Information Flow
+
 Aspect of phase A
 ```
     Develop a high-level aspirational vision of the capabilities and business value to be delivered as a result of the proposed Enterprise Architecture
@@ -164,3 +173,70 @@ Aspect of phase A
     Obtain approval for a Statement of Architecture Work that defines a program of works to develop and deploy the architecture outlined in the Architecture Vision 6.2 Inputs
     Identify Stakeholders, Concerns, and Business Requirements
 ```
+
+What describes the Phase H classification for an Incremental change?
+
+```
+A simplification change to an architecture is often driven by a requirement to reduce investment; an incremental change, by a requirement to derive additional value from existing investment; a re-architecting change, by a requirement to increase investment in order to create new value for exploitation.
+```
+
+> One of the outputs of Phase-D is "Technology platforms and their decomposition, showing the combinations of technology required to realize a particular technology stack
+> The Technology Architecture describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services; this includes IT infrastructure, middleware, networks, communications, processing, standards, etc.
+
+Top down vs Botton up approach
+```
+The top-down approach means that you start with the business requirements (the B layer) and fully decide the problems your business needs to solve before thinking about the technology to solve those problems. The “bottom up” approach means you start with the technology that you are looking to add to your organization and work “up” to change the applications and the business.
+
+An example of this is, let’s say you have a problem with security. You talk to the business leaders, department heads, etc and come up with an extensive target business architecture for it. Then you start looking at vendors and thinking about implementation. That’s top-down.
+
+The bottom-up approach is, when you have a problem with security, talking to the technical teams and ops teams. What can you do to improve security? They might suggest you restrict all access from outside your company except through the VPN. You then work up to the business layer to say that certain policies need to be followed to get access to the company network from outside. That’s a top up approach. Thinking about solutions first and then changing the business needs to match.
+```
+
+> The ADM numbering scheme is provided as an example. It should be adapted by the architect to meet the requirements of the organization and to work with the architecture tools and repositories employed by the organization
+
+```
+There are three main categories of architecture change:
+1. Simplification: this can be handled via change management techniques.
+2. Incremental: this may be handled via change management techniques, or it may require partial rearchitecting.
+3. Re-architecting: this requires putting the whole architecture through the architecture development cycle again.
+```
+
+
+> Architecture Governance Framework and Governance framework consists of: process, content, process flow control and repository. 
+
+
+Purpose of Architecture Compliance review
+```
+    To communicate technical readiness of project
+    To govern architecture throught its implementaiton process
+```
+
+Communication plan 
+```
+    To ensure architecture information is communicated to right stakeholder at right time 
+```
+
+Architecture board is responsible and accountable for 
+```
+    Identifying and approving component for reuse.
+    Enforcement of architecture compliance 
+    Ensuring consisitency between sub-architecture 
+    Provide basis for all decision making with regard to change to architecture
+```
+
+> Architecture vision is a high level description of baseline and target architecture
+
+> RACI (Matrix) : Responsible, Accountable, Consulted, Informed 
+
+
+Pressure to Develop Enterprise Architecture 
+- Laws and regulations 
+    * Clinger-Cohen Act (US Information Technology Management Reform Act 1 996) 
+    * EU Directives on the Award of Public Contracts 
+    * Sarbanes-Oxley 
+- More extended enterprises 
+- More co-operative IT operations 
+- Greater publicity to failures 
+- Increase in litigation 
+- Audit requirements 
+

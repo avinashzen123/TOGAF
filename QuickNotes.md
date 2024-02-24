@@ -240,6 +240,13 @@ Pressure to Develop Enterprise Architecture
 - Increase in litigation 
 - Audit requirements 
 
+Steps performed in Preliminary Phase: 
+- Scope the enterprise organizations impacted
+- Confirm governance and support frameworks
+- Define and establish Enterprise Architecture team and organization 
+- Identify and establish Architecture principles
+- Tailor the ToGAF framework and, if any, other selected architecture frameworks
+- Develop strategy and implementation plans for tools and techniques
 
 Steps performed in phase A
 1. Establish the architecture project

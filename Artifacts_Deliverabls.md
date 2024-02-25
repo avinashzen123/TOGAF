@@ -7,13 +7,13 @@ Principles Catalog
 ## Phase A: Architecture Vision
 **Stakeholder Map Matrix**
 
-**Value Chain Diagram**: Provides a high-level orientation view of an enterprise and how it interacts with the outside world
+**Value Chain Diagram**: Provides a high-level orientation view of an enterprise and how it interacts with the outside world.  
 Value Chain diagram focuses on presentational impact.
 The purpose of this diagram is to quickly on-board and align stakeholders for a particular change initiative, so that all participants understand the high-level functional and organizational context of the architecture engagement
 
 **Value Stream Map** : A family of diagrams representing a definitive listing of an end-to-end collection of value- adding activities that create an overall result for a customer, stakeholder, or end user.
 
-**Solution Concept Diagram** : provides a high-level orientation of the solution that is envisaged in order to meet the objectives of the architecture engagement.
+**Solution Concept Diagram** : provides a high-level orientation of the solution that is envisaged in order to meet the objectives of the architecture engagement.  
 This diagram may embody key objectives, requirements, and constraints for the engagement and also highlight work areas to be investigated in more detail with formal architecture modeling.
 
 **Business Model Diagram** : A model describing the rationale for how an enterprise creates, delivers, and captures value.
@@ -21,7 +21,7 @@ This diagram may embody key objectives, requirements, and constraints for the en
 **Business Capability Map** : A family of diagrams representing a definitive listing of a particular ability that a business may possess or exchange to achieve a specific purpose.
 
 ## Phase B: Business Architecture
-**Organization/Actor Catalog** : capture a definitive listing of all participants that interact with IT, including users and owners of IT systems.
+**Organization/Actor Catalog** : capture a definitive listing of all participants that interact with IT, including users and owners of IT systems.  
 The Organization/Actor catalog can be referenced when developing requirements in order to test for completeness.
 
 **Driver/Goal/Objective Catalog** :  The purpose of the Driver/Goal/Objective catalog is to provide a cross-organizational reference of how an organization meets its drivers in practical terms through goals, objectives, and (optionally) measures.
@@ -52,7 +52,7 @@ Understanding business interaction of an enterprise is important as it helps to 
 
 **Capability/Organization Matrix** : The purpose of this matrix is to show the organization elements that implement each capability.
 
-The **Business Footprint diagram** A Business Footprint diagram describes the links between business goals, organizational units, business functions, and services, and maps these functions to the technical components delivering the required capability
+The **Business Footprint diagram** A Business Footprint diagram describes the links between business goals, organizational units, business functions, and services, and maps these functions to the technical components delivering the required capability.  
 Provides a clear view of the relationships among the business entities, functions, services, and processes. It would help the manufacturing company understand the dependencies and flows crucial for enhancing supply chain efficiency.
  
  **Business Service/Information Diagram** : The Business Service/Information diagram shows what data is consumed by or produced by a business service and may also show the source of information.
@@ -63,7 +63,7 @@ Provides a clear view of the relationships among the business entities, function
 
 **Goal/Objective/Service Diagram** : Define the ways in which a service contributes to the achievement of a business vision or strategy.
 
-**Business Use-Case Diagram** : A Business Use-Case diagram displays the relationships between consumers and providers of business services.
+**Business Use-Case Diagram** : A Business Use-Case diagram displays the relationships between consumers and providers of business services.  
 Business services are consumed by actors or other business services and the Business Use-Case diagram provides added richness in describing business capability by illustrating how and when that capability is used.
 
 **Organization Decomposition Diagram** : describes the links between actor, roles, and location within an organization tree.
@@ -87,8 +87,8 @@ Business services are consumed by actors or other business services and the Busi
 **Application/Data Matrix** : depict the relationship between applications (i.e., application components) and the data entities that are accessed and updated by them.
 
 
-The **Data Dissemination diagram** : The purpose of the Data Dissemination diagram is to show the relationship between data entity, business service, and application components. The diagram shows how the logical entities are to be physically realized by application components.
-showcases the flow of data within the system and how it gets processed or transformed, ideal for the scenario described.
+The **Data Dissemination diagram** : The purpose of the Data Dissemination diagram is to show the relationship between data entity, business service, and application components. The diagram shows how the logical entities are to be physically realized by application components.  
+showcases the flow of data within the system and how it gets processed or transformed, ideal for the scenario described.   
 The Data Dissemination diagram depicts how data moves between different parts of a system, making it suitable for understanding the flow of research data between labs.
 
 The **Data Landscape diagram** provides a big picture view of the data within an organization, making it ideal for a comprehensive understanding of the data's location and flow, especially during consolidation processes.
@@ -124,9 +124,9 @@ The **Data Landscape diagram** provides a big picture view of the data within an
 The mapping of the application interactions shows in matrix form the equivalent of the Interface Catalog or an Application Communication diagram.
 
 
-The **Application Communication diagram** can illustrate the communication and dependencies between applications.
-The Application Communication diagram can detail how data flows between applications and users, making it ideal for representing the flow of flight updates.
-The Application Communication diagram showcases interactions between different applications, making it the right choice for visualizing app integrations.
+The **Application Communication diagram** can illustrate the communication and dependencies between applications.  
+The Application Communication diagram can detail how data flows between applications and users, making it ideal for representing the flow of flight updates.  
+The Application Communication diagram showcases interactions between different applications, making it the right choice for visualizing app integrations.   
 The Application Communication diagram provides a visualization of how various applications within an enterprise communicate with each other, making it ideal for understanding the interaction of the unified communication system with other applications.
 
 **Applicatino and User location diagram** : The Application and User Location diagram shows the geographical distribution of applications. This diagram depicts the distribution of applications and data, helping in understanding how a migration to a new environment might impact current setups.
@@ -140,7 +140,7 @@ The Application Communication diagram provides a visualization of how various ap
 It enhances the Application Communication diagram by augmenting it with any sequencing constraints, and hand-off points between batch and real-time processing.
 
 
-**Software Engineering Diagram** : breaks applications into packages, modules, services, and operations from a development perspective.
+**Software Engineering Diagram** : breaks applications into packages, modules, services, and operations from a development perspective.   
 It enables more detailed impact analysis when planning migration stages, and analyzing opportunities and solutions
 
 **Application Migration Diagram** : It enables a more accurate estimation of migration costs by showing precisely which applications and interfaces need to be mapped between migration stages.
@@ -177,7 +177,7 @@ It enables more detailed impact analysis when planning migration stages, and ana
 
 **Security Control catalog** : The Security Control catalog is a list of all security controls within the system or planned for inclusion
 
-**Technology architecture blueprint :**  The Technology Architecture Blueprint provides a high-level representation of the organization’s technology platform, including software and security.
+**Technology architecture blueprint :**  The Technology Architecture Blueprint provides a high-level representation of the organization’s technology platform, including software and security.   
 The Technology Architecture Blueprint provides a high-level representation of the entire technology landscape, including software, hardware, and interfaces
 
 **TOGAF's Reference Models** provide a high-level theoretical framework that can be used as a template or pattern for developing architecture artifacts. It would be beneficial for the pharmaceutical company to use it as a benchmark when rolling out their new ERP system.

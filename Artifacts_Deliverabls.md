@@ -6,6 +6,7 @@ Principles Catalog
 
 ## Phase A: Architecture Vision
 **Stakeholder Map Matrix**
+
 **Value Chain Diagram**: Provides a high-level orientation view of an enterprise and how it interacts with the outside world
 Value Chain diagram focuses on presentational impact.
 The purpose of this diagram is to quickly on-board and align stakeholders for a particular change initiative, so that all participants understand the high-level functional and organizational context of the architecture engagement

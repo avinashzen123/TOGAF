@@ -327,7 +327,7 @@ Steps performed in Phase F: Migration Planning:
 4. Prioritize the migration project through conduct of a cost/benefit assessment and risk validation
 5. Confirm architecture roadmap and update architecture definition document
 6. Complete the implementation and migration plan
-7. Complete the architecture development cycle and document lesson learned.
+7. *Complete the architecture development cycle and document lesson learned.*
 
 Steps performed in Phase G: Implementation Governance:
 1. Confirm scope and priorities for development with management
@@ -346,4 +346,25 @@ Steps performed in Phase H: Architecture Change Management:
 6. Manage Governance process
 7. Activate the process to implementation change.
 
- 
+
+## 24. Migration planning techniques :
+1. Implementation Factor Assessment & Deduction Matrix : The technique of creating an Implementation Factor Assessment and Deduction matrix can be used to document factors impacting the architecture Implementation and Migration Plan.
+    - Risks
+    - Issues
+    - Assumptions 
+    - Dependencies 
+    - Actions
+    - Impacts
+
+2. Consolidated Gaps, Solutions, & Dependencies Matrix : The technique of creating a Consolidated Gaps, Solutions, and Dependencies matrix allows the architect to group the gaps identified in the domain architecture gap analysis results and assess potential solutions and dependencies to one or more gaps
+
+3. Architecture Definition Increments Table : The technique of creating an Architecture Definition Increments table allows the architect to plan a series of Transition Architectures outlining the status of the Enterprise Architecture at specified times
+
+4. Transition Architecture State Evolution Table : The technique of creating the Transition Architecture State Evolution table allows the architect to show the proposed state of the architectures at various levels using the defined taxonomy (e.g., the TOGAF TRM).
+
+**All Solution Building Blocks (SBBs) should be described with respect to their delivery and impact on these services**. They should also be marked to show the progression of the Enterprise Architecture.
+
+5. Business Value Assessment Technique : A technique to assess business value is to draw up a matrix based on a value index dimension and a risk index dimension.
+
+
+<hr/>

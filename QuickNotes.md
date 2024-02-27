@@ -1,13 +1,12 @@
 **What is Architecture in the Context of TOGAF?**
-  
 > A formal description of a system, or a detailed plan of the system at a component level to guide its implementation or the structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time
  
 
 **Which of the following according to TOGAF is a reason to use an Enterprise Architecture Framework?**  
-    It will speed up and simplify architecture development
-    It will ensure more complete coverage of the designed solution
-    It will make certain that the architecture selected allows for future growth in response to the needs of the business
-    Its use may be mandated by federal agencies 
+It will speed up and simplify architecture development.  
+It will ensure more complete coverage of the designed solution.  
+It will make certain that the architecture selected allows for future growth in response to the needs of the business.  
+Its use may be mandated by federal agencies.  
   
 
 **Part of Architecture Repository** 
@@ -21,21 +20,20 @@
 8. Solutions Landscape
 
 **Architecture Landscape**
-    Strategic Architectures
-    Segment Architectures
-    Capability Architectures
+1. Strategic Architectures
+2. Segment Architectures
+3. Capability Architectures
  
 
-Reference materials held may be obtained from a variety of sources, including:
- 
-    Standards bodies
-    Product and service vendors
-    Industry communities or forums
-    Standard templates
-    Enterprise best practice
+**Reference materials held may be obtained from a variety of sources, including:**
+Standards bodies  
+Product and service vendors   
+Industry communities or forums  
+Standard templates  
+Enterprise best practice
  
 
-The Reference Library should contain:
+**The Reference Library should contain:**
  
     Reference Architectures
     Reference Models
@@ -45,16 +43,15 @@ The Reference Library should contain:
 
 > TRM is used for Foundation architecture.
 
-Benefits of Architecture Governance
- 
-Increased transparency of accountability, and informed delegation of authority
-Controlled risk management
-Protection of the existing asset base through maximizing re-use of existing architectural components
-Proactive control, monitoring, and management mechanisms
-Process, concept, and component re-use across all organizational business units
-Value creation through monitoring, measuring, evaluation, and feedback
-Increased visibility supporting internal processes and external parties’ requirements; in particular, increased visibility of decision-making at lower levels ensures oversight at an appropriate level within the enterprise of decisions that may have far-reaching strategic consequences for the organization
-Greater shareholder value; in particular, Enterprise Architecture increasingly represents the core intellectual property of the enterprise — studies have demonstrated a correlation between increased shareholder value and well-governed enterprises
+**Benefits of Architecture Governance**
+1. Increased transparency of accountability, and informed delegation of authority
+2. Controlled risk management
+3. Protection of the existing asset base through maximizing re-use of existing architectural components
+4. Proactive control, monitoring, and management mechanisms
+5. Process, concept, and component re-use across all organizational business units
+6. Value creation through monitoring, measuring, evaluation, and feedback
+7. Increased visibility supporting internal processes and external parties’ requirements; in particular, increased visibility of decision-making at lower levels ensures oversight at an appropriate level within the enterprise of decisions that may have far-reaching strategic consequences for the organization
+8. Greater shareholder value; in particular, Enterprise Architecture increasingly represents the core intellectual property of the enterprise — studies have demonstrated a correlation between increased shareholder value and well-governed enterprises
  
 
 Part of Architecture Governance?

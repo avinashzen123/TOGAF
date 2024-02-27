@@ -1,31 +1,26 @@
-What is Architecture in the Context of TOGAF?
+**What is Architecture in the Context of TOGAF?**
   
-A formal description of a system, or a detailed plan of the system at a component level to guide its implementation or the structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time
+> A formal description of a system, or a detailed plan of the system at a component level to guide its implementation or the structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time
  
 
-Which of the following according to TOGAF is a reason to use an Enterprise Architecture Framework?
-  
+**Which of the following according to TOGAF is a reason to use an Enterprise Architecture Framework?**  
     It will speed up and simplify architecture development
     It will ensure more complete coverage of the designed solution
     It will make certain that the architecture selected allows for future growth in response to the needs of the business
-    Its use may be mandated by federal agencies å
+    Its use may be mandated by federal agencies 
   
 
-Part of Architecture Repository
- 
-    Architecture Metamodel
-    Architecture Capability
-    Architecture Landscape
-    Standards Information Base
-    Reference Library
-    Governance Log
-    Architecture Requirements Repository
-    Solutions Landscape
- 
+**Part of Architecture Repository** 
+1. Architecture Metamodel
+2. Architecture Capability
+3. Architecture Landscape
+4. Standards Information Base
+5. Reference Library
+6. Governance Log
+7. Architecture Requirements Repository
+8. Solutions Landscape
 
-
-Architecture Landscape
- 
+**Architecture Landscape**
     Strategic Architectures
     Segment Architectures
     Capability Architectures

@@ -25,7 +25,7 @@ Its use may be mandated by federal agencies.
 3. Capability Architectures
  
 
-**Reference materials held may be obtained from a variety of sources, including:**
+**Reference materials held may be obtained from a variety of sources, including:**   
 Standards bodies  
 Product and service vendors   
 Industry communities or forums  

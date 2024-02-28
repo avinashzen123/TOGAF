@@ -106,11 +106,13 @@ Reason for wanting to tailor ADM for the specific need of the enterprise
 - The enterprise is a small-to-medium enterprise, and wishes to use a “cut-down” version of the ADM 
  
 
-What does the Conceptual Structure of Architecture Governance Framework contain?
- 
-    Process, Content, Repository and Process Flow Control
- 
 
+
+Which of the following is NOT the characteristic of a good building block?
+    It considers implementation and usage, and evolves to exploit technology and standards
+    It may be assembled from other building blocks
+    It may be a subassembly of other building blocks
+    Ideally, a building block is re-usable and replaceable, and well specified with stable interfaces
 
  
 
@@ -396,3 +398,16 @@ Steps performed in Phase H: Architecture Change Management:
 **Architecture Building Blocks (ABBs)** in TOGAF are used to represent architecture concepts that are applicable to architecture domains. They are typically expressed at a high level of abstraction and detail what is required from specific architecture domains to realize the system.
 
 
+**According to TOGAF Document Categorization Model, which are the four categories of content?**
+    Core, Mandated, Recommended and Supporting 
+
+**Key Point of the ADM Cycle** : The main guideline is to focus on what creates value to the enterprise, and to select horizontal and vertical scope, and project schedules, accordingly 
+
+**scope of the enterprise architecture projects decided?** : Agreement on the scope is reached in the Preliminary phase and it is defined in phase A 
+
+
+**Responsibility of Architecture Board?** 
+Ensuring consistency between sub-architectures  
+Identifying re-usable components  
+Improving the maturity level of architecture discipline within the organization   
+Providing the basis for all decision-making with regard to changes to the architectures   

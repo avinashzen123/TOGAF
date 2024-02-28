@@ -1,8 +1,8 @@
 # 26. Business Transformation Readiness Assessment
 
-``` Enterprise Architecture is a major endeavor within an organization and most often an innovative Architecture Vision (Phase A) and supporting Architecture Definition (Phases B to D) will entail considerable change ```
+> Enterprise Architecture is a major endeavor within an organization and most often an innovative Architecture Vision (Phase A) and supporting Architecture Definition (Phases B to D) will entail considerable change 
 
-Understanding the readiness of the organization to accept change, identifying the issues, and then dealing with them in the Implementation and Migration Plans is key to successful architecture transformation in Phases E and F.
+Understanding the readiness of the organization to accept change, identifying the issues, and then dealing with them in the Implementation and Migration Plans is key to successful architecture transformation in **Phases E and F**.
 
 
 The recommended activities in an assessment of an organization's readiness to address business transformation are:
@@ -11,7 +11,7 @@ The recommended activities in an assessment of an organization's readiness to ad
 - **Present the readiness factors using maturity models**
 - Assess the readiness factors, including determination of readiness factor ratings
 - Assess the risks for each readiness factor and identify improvement actions to mitigate the risk
-- Work these actions into Phase E and F Implementation and Migration Plan
+- **Work these actions into Phase E and F Implementation and Migration Plan**
 
 
 Business Transformation Enablement Program (BTEP) : Provides guideance on how to identify Business transformation related issues.

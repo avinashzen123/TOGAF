@@ -7,9 +7,9 @@ Capability Maturity Models (CMM) : provides an effective and proven method for o
 - They constitute a proven framework within which to manage the improvement efforts
 - They organize the various practices into levels, each level representing an increased ability to control and manage the development environment
 
-An evaluation of the organization’s practices against the model — called an "assessment" — determines the level at which the organization currently stands.
+**An evaluation of the organization’s practices against the model — called an "assessment" — determines the level at which the organization currently stands.**
 
-The main issues addressed by these models include:
+**The main issues addressed by these models include:**
 - Process implementation and audit
 - Quality measurements
 - People competencies

@@ -28,6 +28,29 @@ Phase G focuses on overseeing the implementation and ensuring that it aligns wit
 In Phase G, the emphasis is on ensuring that the implementation projects conform to the defined architecture, and this includes managing and addressing risks.
 
 
+
+
+**Which of the following is  an aspect of phase H?**
+    Ensure that the architecture lifecycle is maintained
+    Ensure that the Architecture Governance Framework is executed
+    Ensure that the Enterprise Architecture Capability meets current requirements
+    Develop Change Requirements to Meet Performance Targets 
+
+
+
+In which Phase is the risk identification and mitigation assessment worksheets are maintained as governance artifacts and are kept up-to-date?
+    Phase G
+
+
+
+**What does the Conceptual Structure of Architecture Governance Framework contain?**
+    Process, Content, Repository and Process Flow Control
+
+**In which phase is Capability Assessment carried out**
+    It is first carried out in Phase A and updated in Phase E
+
+What is the TOGAF Technical Reference Model : It describes a fundamental architecture upon which other, more specific, architectures can be based
+
 <hr/>
 
 SWOT Analysis :
@@ -44,3 +67,16 @@ SWOT Analysis :
 - Communicate to management the status of technical readiness of the project
 - Identify key criteria for procurement activities (e.g., for inclusion in Commercial Off-The-Shelf (COTS) product RFI/RFP documents)
 - Identify and communicate significant architectural gaps to product and service providers
+
+
+**Patterns** are a package of functionality defined to meet business needs across an organization
+
+Categories of Skills
+The TOGAF team skill set will need to include the following main categories of skills:
+ - Generic Skills: — typically comprising leadership, teamworking, inter-personal skills, etc.
+ - Business Skills & Methods: — typically comprising business cases, business process, strategic planning, etc.
+ - Enterprise Architecture Skills: — typically comprising modeling, building block design, applications and role design, systems integration, etc.
+ - Program or Project Management Skills: — typically comprising managing business change, project management methods and tools, etc.
+ - IT General Knowledge Skills: — typically comprising brokering applications, asset management, migration planning, SLAs, etc.
+ - Technical IT Skills: — typically comprising software engineering, security, data interchange, data management, etc.
+ - Legal Environment: — typically comprising data protection laws, contract law, procurement law, fraud, etc.

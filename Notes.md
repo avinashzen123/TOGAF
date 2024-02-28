@@ -32,3 +32,15 @@ In Phase G, the emphasis is on ensuring that the implementation projects conform
 
 SWOT Analysis :
 
+
+**Purpose of compliance review :**    
+- First and foremost, catch errors in the project architecture early, and thereby reduce the cost and risk of changes required later in the lifecycle 
+- Ensure the application of best practices to architecture work
+- Provide an overview of the compliance of an architecture to mandated enterprise standards
+- Identify where the standards themselves may require modification
+- Identify services that are currently application-specific but might be provided as part of the enterprise infrastructure
+- Document strategies for collaboration, resource sharing, and other synergies across multiple architecture teams
+- Take advantage of advances in technology
+- Communicate to management the status of technical readiness of the project
+- Identify key criteria for procurement activities (e.g., for inclusion in Commercial Off-The-Shelf (COTS) product RFI/RFP documents)
+- Identify and communicate significant architectural gaps to product and service providers

@@ -15,7 +15,8 @@ Each of these domains of governance may exist at multiple geographic levels
 
 ## Nature of Governance
 ### Governance: A Generic Perspective
-Governance is essentially about ensuring that business is conducted properly. It is less about overt control and strict adherence to rules, and more about guidance and effective and equitable usage of resources to ensure sustainability of an organization's strategic objectives.
+**Governance is essentially about ensuring that business is conducted properly**. It is less about overt control and strict adherence to rules, and more about guidance and effective and equitable usage of resources to ensure sustainability of an organization's strategic objectives.
+
 The following outlines the basic principles of corporate governance
 - Focuses on the rights, roles, and equitable treatment of shareholders
 - Disclosure and transparency and the responsibilities of the board
@@ -55,7 +56,7 @@ IT governance provides the framework and structure that links IT resources and i
 
 **Architecture Governance as a Board-Level Responsibility** IT governance has recently become a board responsibility as part of overall business governance
 
-**The TOGAF Standard and Architecture Governance** Phase G of the TOGAF ADM is dedicated to implementation governance, which concerns itself with the realization of the architecture through change projects.
+**The TOGAF Standard and Architecture Governance** *Phase G of the TOGAF ADM is dedicated to implementation governance*, which concerns itself with the realization of the architecture through change projects.
 Architecture Governance needs to be supported by an Architecture Governance Framework
 
 ## Architecture Governance Framework

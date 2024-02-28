@@ -1,6 +1,5 @@
 # 41. Architecture Board
 
-
 > A key element in a successful Architecture Governance strategy is a cross-organization Architecture Board to oversee the implementation of the strategy. This body should be representative of all the key stakeholders in the architecture, and will typically comprise a group of executives responsible for the review and maintenance of the overall architecture.
 
 ## Role
@@ -41,11 +40,10 @@ The Architecture Board is typically made responsible, and accountable, for achie
 
 ## Setting Up the Architecture Board
 **Triggers**
-
     New CIO
     Merger or acquisition
     Consideration of a move to newer forms of computing
-    Recognition that IT is poorly aligned to business
+    *Recognition that IT is poorly aligned to business*
     Desire to achieve competitive advantage via technology
     Creation of an Enterprise Architecture program
     Significant business change or rapid growth

@@ -3,7 +3,7 @@
 
 Enterprise will normally define two complementary process
 - The architecture function : will be required to prepare a series of Project architecture ie. project specific view of EA that will illustrate how EA impacts the major projects within the Organization (ADM Phase A to F)
-- The IT Governance : Function will define forma architecture compliance review process for reviewing the compliance of projects to the EA.
+- The IT Governance : Function will define from architecture compliance review process for reviewing the compliance of projects to the EA.
 
 **Terminology : The meaning of architecture compliance**
 - Irrelevant :  Implementation has not features in common with architecture specification
@@ -36,7 +36,7 @@ An Architecture Compliance review is a scrutiny of the compliance of a specific 
 - Identify and communicate significant architectural gaps to product and service providers
 
 Apart from the generic goals related to quality assurance outlined above, there are additional, more politically-oriented motivations for conducting Architecture Compliance reviews, which may be relevant in particular cases:
-- The Architecture Compliance review can be a good way of deciding between architectural alternatives, since the business decision-makers typically involved in the review can guide decisions in terms of what is best for the business, as opposed to what is technically more pleasing or elegant
+- *The Architecture Compliance review can be a good way of deciding between architectural alternatives*, since the business decision-makers typically involved in the review can guide decisions in terms of what is best for the business, as opposed to what is technically more pleasing or elegant
 - The output of the Architecture Compliance review is one of the few measurable deliverables to the CIO to assist in decision-making
 - Architecture reviews can serve as a way for the architecture organization to engage with development projects that might otherwise proceed without involvement of the architecture function
 - Architecture reviews can demonstrate rapid and positive support to the enterprise business community: 

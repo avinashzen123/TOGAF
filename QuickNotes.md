@@ -7,7 +7,17 @@ It will speed up and simplify architecture development.
 It will ensure more complete coverage of the designed solution.  
 It will make certain that the architecture selected allows for future growth in response to the needs of the business.  
 Its use may be mandated by federal agencies.  
-  
+
+**six parts of TOGAF document**
+1. Introduction
+2. ADM
+3. ADM Guidelines and techniques
+4. Architecture content framework
+5. Architecture Continuum and tools
+6. Architecture capability framework.
+
+
+The **Statement of Architecture Work** in TOGAF defines the scope and approach to complete an architecture project, acts as a contract between the development team and the sponsors, and identifies the key stakeholders and their requirements.  
 
 **Part of Architecture Repository** 
 1. Architecture Metamodel
@@ -20,21 +30,40 @@ Its use may be mandated by federal agencies.
 8. Solutions Landscape
 
 **Architecture Landscape**
-1. Strategic Architectures
-2. Segment Architectures
-3. Capability Architectures
+1. Strategic Architectures : show a long-term summary view of the entire enterprise. Strategic Architectures provide an organizing framework for operational and change activity and allow for direction setting at an executive level.
+2. Segment Architectures : provide more detailed operating models for areas within an enterprise. Segment Architectures can be used at the program or portfolio level to organize and operationally align more detailed change activity.
+3. Capability Architectures : show in a more detailed fashion how the enterprise can support a particular unit of capability. Capability Architectures are used to provide an overview of current capability, target capability, and capability increments and allow for individual work packages and projects to be grouped within managed portfolios and programs
  
 
 **Reference materials held may be obtained from a variety of sources, including:**   
-Standards bodies  
-Product and service vendors   
-Industry communities or forums  
-Standard templates  
-Enterprise best practice
- 
+    Standards bodies  
+    Product and service vendors   
+    Industry communities or forums  
+    Standard templates  
+    Enterprise best practice
 
-**The Reference Library should contain:**
- 
+**Type of standards**:
+1. Legal and Regulatory Obligations
+2. Industry Standards
+3. Organizational Standards
+
+
+**Standards Lifecycle**
+- Proposed Standard
+- Provisional Standard
+- Standard (also known as an Active Standard):
+- Phasing-Out Standard (also known as a Deprecated Standard)
+- Retired Standard (also known as an Obsolete Standard):
+
+**What is a Standards Information Base** : It holds a set of specifications, to which architectures must conform
+
+**Standards Classification within the Standards Information Base** :
+- Business Standards
+- Data Standards
+- Applications Standards
+- Technology Standards
+
+**The Reference Library should contain:** 
     Reference Architectures
     Reference Models
     Viewpoint Library
@@ -54,20 +83,27 @@ Enterprise best practice
 8. Greater shareholder value; in particular, Enterprise Architecture increasingly represents the core intellectual property of the enterprise — studies have demonstrated a correlation between increased shareholder value and well-governed enterprises
  
 
-Part of Architecture Governance?
- 
+**Part of Architecture Governance?** :   
     Implementing a system of controls over the creation and monitoring of all architectural components and activities
     Implementing a system to ensure compliance with internal and external standards and regulatory obligations
     Establishing processes that support effective management of the above processes within agreed parameters
     Developing practices that ensure accountability to a clearly identified stakeholder community 
  
 
+**Governance Log** :The Governance Log provides a repository area to hold shared information relating to the ongoing governance of projects. 
+Content : 
+- Decision Log
+- Compliance Assessments : at key checkpoint milestones in the progress of a project, a formal architecture review will be carried out 
+- Capability Assessments : depending on their objectives, some projects will carry out assessments of business, IT, or Architecture Capability 
+- Calendar : the Calendar should show a schedule of in-flight projects and formal review sessions to be held against these projects 
+- Project Portfolio : Project Portfolio should hold summary information about all in-flight projects that fall under Architecture Governance
+- Performance Measurement : based on a charter for the architecture function, a number of performance criteria will typically be defined 
+
 Reason for wanting to tailor ADM for the specific need of the enterprise
- 
-An enterprise may wish to use or tailor the ADM in conjunction with the marketing strategy
-The ADM is one of many corporate processes that make up the corporate governance model for an enterprise
-The ADM is being mandated for use by a prime or lead contractor in an outsourcing situation, and needs to be tailored to achieve a suitable compromise between the contractor’s existing practices and the contracting enterprise’s requirements
-The enterprise is a small-to-medium enterprise, and wishes to use a “cut-down” version of the ADM 
+- An enterprise may wish to use or tailor the ADM in conjunction with the marketing strategy  
+- The ADM is one of many corporate processes that make up the corporate governance model for an enterprise  
+- The ADM is being mandated for use by a prime or lead contractor in an outsourcing situation, and needs to be tailored to achieve a suitable compromise between the contractor’s existing  practices and the contracting enterprise’s requirements   
+- The enterprise is a small-to-medium enterprise, and wishes to use a “cut-down” version of the ADM 
  
 
 What does the Conceptual Structure of Architecture Governance Framework contain?
@@ -75,13 +111,10 @@ What does the Conceptual Structure of Architecture Governance Framework contain?
     Process, Content, Repository and Process Flow Control
  
 
-What is a Standards Information Base
- 
-It holds a set of specifications, to which architectures must conform
+
  
 
-How is the Transition Architecture formulated
- 
+**How is the Transition Architecture formulated**  
 In Phase E major implementation projects grouped into Transition Architectures and they are confirmed with relevant stakeholders in phase F
  
 
@@ -354,9 +387,12 @@ Steps performed in Phase H: Architecture Change Management:
 
 4. Transition Architecture State Evolution Table : The technique of creating the Transition Architecture State Evolution table allows the architect to show the proposed state of the architectures at various levels using the defined taxonomy (e.g., the TOGAF TRM).
 
-**All Solution Building Blocks (SBBs) should be described with respect to their delivery and impact on these services**. They should also be marked to show the progression of the Enterprise Architecture.
-
 5. Business Value Assessment Technique : A technique to assess business value is to draw up a matrix based on a value index dimension and a risk index dimension.
 
 
-<hr/>
+
+**All Solution Building Blocks (SBBs) should be described with respect to their delivery and impact on these services**. They should also be marked to show the progression of the Enterprise Architecture.
+
+**Architecture Building Blocks (ABBs)** in TOGAF are used to represent architecture concepts that are applicable to architecture domains. They are typically expressed at a high level of abstraction and detail what is required from specific architecture domains to realize the system.
+
+

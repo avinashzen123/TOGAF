@@ -10,7 +10,7 @@ Architecture Contracts are the joint agreements between development partners and
 - A set of processes and practices that ensure accountability, responsibility, and discipline with regard to the development and usage of all architectural artifacts
 - A formal understanding of the governance organization responsible for the contract, their level of authority, and scope of the architecture under the governance of this body
 
-Architecture Contracts may occur at various stages of the Architecture Development Method (ADM); for example:
+**Architecture Contracts may occur at various stages of the Architecture Development Method (ADM); for example:**
 - The Statement of Architecture Work created in Phase A
 - The development of one or more architecture domains, and in some cases the oversight of the overall Enterprise Architecture, may be contracted out to systems integrators, applications providers, and/or service providers
 - At the beginning of Phase G (Implementation Governance), between the architecture function and the function responsible for implementing the Enterprise Architecture defined in the preceding ADM phases, typically, this will be either the in-house systems development function, or a major contractor to whom the work is outsourced 
@@ -24,7 +24,7 @@ Typical contents of an Architecture Design and Development Contract are:
 
 - Introduction and background
 - The nature of the agreement
-- Scope of the architecture
+- *Scope of the architecture*
 - Architecture and strategic principles and requirements
 - Conformance requirements
 - Architecture development and management process and roles
